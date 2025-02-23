@@ -148,6 +148,10 @@ footer {
   transform: scale(1.05);
 }
 a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
   color: inherit;
   text-decoration: none;
 }
